@@ -1,0 +1,12 @@
+body{
+  background-color:black;
+}
+h1{
+  text-align:center;
+  color:DarkGreen;
+}
+.left{
+  float:left;
+}
+.right{
+  float:right;
